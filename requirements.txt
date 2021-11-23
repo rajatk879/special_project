@@ -1,8 +1,8 @@
 Flask==1.1.2
 Flask_Cors==3.0.9
-librosa==
-numpy==
-pandas==
-tensorflow==
-Werkzeug==
+librosa
+numpy
+pandas
+tensorflow
+Werkzeug
 gunicorn==19.9.0
