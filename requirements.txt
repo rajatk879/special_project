@@ -4,5 +4,4 @@ librosa
 numpy
 pandas
 tensorflow
-Werkzeug
 gunicorn==19.9.0
