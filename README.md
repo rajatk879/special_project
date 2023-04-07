@@ -1,4 +1,4 @@
-# Speech EMotion Recogniton System
+# Speech Emotion Recogniton System
 The project aims at devising a Speech Emotion Recognition (SER) system to effectively identify
 the emotion and gender from speech signals obtained from the audios uploaded. For the purpose
 of identification of the emotions from the speech, two of the main phases are Feature extraction
